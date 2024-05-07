@@ -1,0 +1,30 @@
+Procedural oriented programming
+----------------------------------
+
+
+
+
+------------
+OOps
+code reusability 
+performance
+abstraction
+readability
+Security
+
+
+
+pillars of OOps
+-------------------------
+class
+objects 
+encapsulation 
+polymorpshism
+inhertence
+abstraction
+
+
+
+class:Its a blueprint/collection of similar data/similarity
+
+
