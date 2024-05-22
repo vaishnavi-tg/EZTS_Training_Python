@@ -1,0 +1,20 @@
+String's characteristics
+-------------------------------
+1.Collection of characters
+2.Indexing is allowed
+3.Duplicates are allowed
+4.Immutable
+5.Order is preserved
+----------------------------------------
+operations that can be done with strings
+----------------------------------------
++ concatination
+* repatation
+in , not in 
+is , is not 
+Indexing
+slicing
+relational
+----------------------------------
+Inbuilt methods of strings
+----------------------------------
