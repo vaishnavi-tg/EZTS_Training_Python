@@ -1,0 +1,37 @@
+WHat is software?
+Why does computer only understands 0's and 1's?
+why should we learn programming? 
+why should we learn python programming language?
+How python is different from other languages?----->It has no limit , it can store anything
+What comes to u r mind when u listen the word python otheer than programming language?
+What is python?--->General purpose,High level(Human unerstandable),Interpreted,Dynamically type (Always answer like this)
+Dynamically type ---> One variable being asigned many things at diferent times
+
+
+Their are 6 categories of datatypes in python
+
+Numeric--->int,float,complex
+sequence--->list,tuple,str,range,byte,bytearray
+boolean--->bool
+set---->set,frozenset
+map--->dict
+none--->None
+
+
+int--->binary,decimal,octal,hexadecimal
+Types of operators
+Arithematic-->[//,**]
+Logical -->
+Bitwise
+Assignment
+Comparision
+Relationala 
+
+Note:If floor divison has negative number then it takes above number 
+ 
+
+
+
+
+
+

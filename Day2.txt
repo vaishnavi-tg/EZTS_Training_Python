@@ -1,0 +1,7 @@
+Parameters are definition and arguments are call
+Types of Parameters
+1.Positional arguments--->Order is maintained,what order we ll give it ll go and stor
+2.Keyword arguments
+3.Default arguments
+4.Variable length arguments
+

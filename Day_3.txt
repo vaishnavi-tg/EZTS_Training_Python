@@ -1,0 +1,10 @@
+Today's agenda
+-----------------------------------
+Lambda functions
+higher order functions
+map,filter,reduce
+
+
+Anonymous functions
+A functions which is defiened with name 
+Syntax:lambda[arg1,arg2,....]:[expression]
