@@ -1,0 +1,10 @@
+Collections/sequence
+# It is a group of objects represented by single variable 
+a=10#--->to overcome use collections
+
+# Collections are 
+# String
+# list
+# tuple
+# set
+# dict
